@@ -6,6 +6,7 @@ const Projects = () => {
   return (
     <div className='mb-5'>
       <Container>
+        <br></br>
         <h3 className='text-center mb-3'><b>PROJECTS</b></h3>
         <Row>
           {projects_info.map((project) => {

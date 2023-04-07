@@ -20,8 +20,8 @@ const Layout = () => {
         </div>
       </div> */}
       <Intro />
-      <People />
       <Projects />
+      <People />
       <Footer />
     </div>
   )
